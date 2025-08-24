@@ -26,7 +26,6 @@ The system streamlines hospital operations, including patient management, doctor
 
 ## Project Structure
 hospital-management-system/
-
 │── app/ # Flask application (routes, models, controllers)
 │── templates/ # HTML templates
 │── static/ # CSS, JS, and assets
